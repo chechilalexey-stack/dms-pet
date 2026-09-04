@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HJ7kDtA2jXc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aleksei.chechil.WIT\\Documents\\Projects\\dms-pet\\backend\\backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleksei.chechil.WIT\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\aleksei.chechil.WIT\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
